@@ -1,0 +1,32 @@
+﻿<Window x:Class="LinqWPFProject.SaleWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LinqWPFProject"
+        mc:Ignorable="d"
+        Title="SaleWin" Height="450" Width="800">
+    <Grid>
+
+        <Grid>
+            <ListView x:Name="SaleList" Margin="0,50,0,0">
+                <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn Width="85" Header="Product_ID" DisplayMemberBinding="{Binding Product_ID}"></GridViewColumn>
+                            <GridViewColumn Width="85" Header="Product_Name" DisplayMemberBinding="{Binding Product_Name}"></GridViewColumn>
+                            <GridViewColumn Width="85" Header="Product_Description" DisplayMemberBinding="{Binding Product_Description}"></GridViewColumn>
+                            <GridViewColumn Width="85" Header="Product_Price" DisplayMemberBinding="{Binding Product_Price}"></GridViewColumn>
+                            <GridViewColumn Width="85" Header="Product_PublishDate" DisplayMemberBinding="{Binding Product_PublishDate}"></GridViewColumn>
+                            <GridViewColumn Width="85" Header="Product_Category" DisplayMemberBinding="{Binding Product_Category.Category_Name}"></GridViewColumn>
+                            <GridViewColumn Width="85" Header="Product_Address" DisplayMemberBinding="{Binding Product_Address[0].Address_Name}"></GridViewColumn>
+                            <GridViewColumn Width="85" Header="Swap" DisplayMemberBinding="{Binding Swap}"></GridViewColumn>
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ComboBox Name="FilterSale" SelectionChanged="FilterSale_SelectionChanged" SelectedIndex="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5,17,0,0" Width="180"/>
+            <TextBox x:Name="FilterTextBoxSale" TextChanged="FilterTextBoxSale_TextChanged" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="210,19,0,0" Width="180"/>
+        </Grid>
+    </Grid>
+</Window>

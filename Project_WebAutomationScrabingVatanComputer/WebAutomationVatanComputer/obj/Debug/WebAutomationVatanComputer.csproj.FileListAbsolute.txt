@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\bin\Debug\WebAutomationVatanComputer.exe.config
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\bin\Debug\WebAutomationVatanComputer.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\bin\Debug\WebAutomationVatanComputer.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.Form1.resources
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z004PTKX\source\repos\WebAutomationVatanComputer\WebAutomationVatanComputer\obj\Debug\WebAutomationVatanComputer.csproj.CopyComplete

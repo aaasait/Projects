@@ -1,0 +1,11 @@
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\bin\Debug\FormSiparis.exe.config
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\bin\Debug\FormSiparis.exe
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\bin\Debug\FormSiparis.pdb
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.Form1.resources
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.exe
+C:\Users\Z004PTKX\source\repos\FormSiparis\FormSiparis\obj\Debug\FormSiparis.pdb

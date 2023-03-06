@@ -1,0 +1,33 @@
+﻿<Window x:Class="LinqWPFProject.QueryWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LinqWPFProject"
+        mc:Ignorable="d"
+        Title="QueryWin" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="400"/>
+        </Grid.RowDefinitions>
+           <!--Top-->
+        <StackPanel  Grid.Row="0">
+            <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center" Width="750" Height="50">
+                <ComboBox Name="FilterQuery"  SelectedIndex="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,17,0,0" Width="450"/>
+                <Button Name="btnGetQuery"  HorizontalAlignment="Right"  Content="Run Query" VerticalAlignment="Top" Margin="0,-30,170,0" Width="85" Height="35"/>
+
+            </StackPanel>
+            
+        </StackPanel>
+        <!--Bottom-->
+        <StackPanel  Grid.Row="1" Background="LightGray">
+            <StackPanel HorizontalAlignment="Left" Height="400" Width="790" Margin="0,0">
+                <ListView x:Name="txtQueryList" Height="300" Width="700" Margin="50,30"  BorderBrush="Black" Visibility="Visible"/>
+
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

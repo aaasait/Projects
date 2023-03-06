@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfForSale2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ForSale2 ProductID="1">
+    <ProductName>Telephone IPHONE</ProductName>
+    <ProductDescription>Clean phone 16 GB </ProductDescription>
+    <ProductPrice>850</ProductPrice>
+    <ProductPublishDate>2010-01-02T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>4</Category_ID>
+      <Category_Name>Electronic</Category_Name>
+      <Category_Description>Electronic</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>true</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="2">
+    <ProductName>Home Table ENGLİSH HOME</ProductName>
+    <ProductDescription> 6 personality </ProductDescription>
+    <ProductPrice>500.9</ProductPrice>
+    <ProductPublishDate>2011-02-12T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>1</Category_ID>
+      <Category_Name>Home</Category_Name>
+      <Category_Description>Home</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="3">
+    <ProductName>Kitchen Carpet MERINOS</ProductName>
+    <ProductDescription> Area(cm) 200x200 </ProductDescription>
+    <ProductPrice>149.8</ProductPrice>
+    <ProductPublishDate>2020-09-03T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>3</Category_ID>
+      <Category_Name>Kitchen</Category_Name>
+      <Category_Description>Kitchen</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="4">
+    <ProductName>T-Shirt Lacoste</ProductName>
+    <ProductDescription> New Small Size</ProductDescription>
+    <ProductPrice>850</ProductPrice>
+    <ProductPublishDate>2020-11-25T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>5</Category_ID>
+      <Category_Name>Textile</Category_Name>
+      <Category_Description>Textile</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="5">
+    <ProductName>TV Samsung</ProductName>
+    <ProductDescription> Very Clean + Netflix  </ProductDescription>
+    <ProductPrice>1200</ProductPrice>
+    <ProductPublishDate>2021-05-23T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>4</Category_ID>
+      <Category_Name>Electronic</Category_Name>
+      <Category_Description>Electronic</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>true</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="6">
+    <ProductName>HP Laptop</ProductName>
+    <ProductDescription> 16 GB Ram 500 GB SSD </ProductDescription>
+    <ProductPrice>1600</ProductPrice>
+    <ProductPublishDate>2022-01-27T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>4</Category_ID>
+      <Category_Name>Electronic</Category_Name>
+      <Category_Description>Electronic</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>true</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="7">
+    <ProductName>Honda CRV Suv</ProductName>
+    <ProductDescription> 120000 Km + Navigation </ProductDescription>
+    <ProductPrice>7500.1</ProductPrice>
+    <ProductPublishDate>2019-06-07T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>6</Category_ID>
+      <Category_Name>Car</Category_Name>
+      <Category_Description>Car</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>true</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="8">
+    <ProductName>Tablecloth Pierre Cardin</ProductName>
+    <ProductDescription> 200x300 cm Rectangle  </ProductDescription>
+    <ProductPrice>75.9</ProductPrice>
+    <ProductPublishDate>2017-03-20T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>3</Category_ID>
+      <Category_Name>Kitchen</Category_Name>
+      <Category_Description>Kitchen</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="9">
+    <ProductName>Towel Pink</ProductName>
+    <ProductDescription> Big Size </ProductDescription>
+    <ProductPrice>29.9</ProductPrice>
+    <ProductPublishDate>2023-01-01T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>5</Category_ID>
+      <Category_Name>Textile</Category_Name>
+      <Category_Description>Textile</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="10">
+    <ProductName>Toyota Corolla</ProductName>
+    <ProductDescription> 2020 Model 13000 Mile </ProductDescription>
+    <ProductPrice>11550.2</ProductPrice>
+    <ProductPublishDate>2021-09-11T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>6</Category_ID>
+      <Category_Name>Car</Category_Name>
+      <Category_Description>Car</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="11">
+    <ProductName>Plastation 4 </ProductName>
+    <ProductDescription> Gift 2 Games </ProductDescription>
+    <ProductPrice>999</ProductPrice>
+    <ProductPublishDate>2022-09-13T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>4</Category_ID>
+      <Category_Name>Electronic</Category_Name>
+      <Category_Description>Electronic</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+  <ForSale2 ProductID="12">
+    <ProductName> Garden Armchair </ProductName>
+    <ProductDescription> 4 piece </ProductDescription>
+    <ProductPrice>255</ProductPrice>
+    <ProductPublishDate>2023-01-10T00:00:00</ProductPublishDate>
+    <ProductCategory>
+      <Category_ID>2</Category_ID>
+      <Category_Name>Garden</Category_Name>
+      <Category_Description>Garden</Category_Description>
+    </ProductCategory>
+    <ProductAddresses>
+      <ProductAddress>
+        <Address_ID>1</Address_ID>
+        <Address_Name>Office</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Bayram Street No:23</Address1>
+      </ProductAddress>
+      <ProductAddress>
+        <Address_ID>2</Address_ID>
+        <Address_Name>Home</Address_Name>
+        <Address_Country>
+          <Country_ID>1</Country_ID>
+          <Country_Name>Türkiye</Country_Name>
+        </Address_Country>
+        <Address_City>
+          <City_ID>34</City_ID>
+          <City_Name>Istanbul</City_Name>
+        </Address_City>
+        <Address1>Londra Street No:44</Address1>
+      </ProductAddress>
+    </ProductAddresses>
+    <Swap>false</Swap>
+  </ForSale2>
+</ArrayOfForSale2>

@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\bin\Debug\net7.0\OrnekBorsaProje.exe
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\bin\Debug\net7.0\OrnekBorsaProje.deps.json
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\bin\Debug\net7.0\OrnekBorsaProje.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\bin\Debug\net7.0\OrnekBorsaProje.dll
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\bin\Debug\net7.0\OrnekBorsaProje.pdb
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.dll
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\refint\OrnekBorsaProje.dll
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.pdb
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\OrnekBorsaProje.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\OrnekBorsaProje\OrnekBorsaProje\obj\Debug\net7.0\ref\OrnekBorsaProje.dll

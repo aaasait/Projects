@@ -1,0 +1,89 @@
+﻿<UserControl x:Class="WPFNwdProject.UCOrders"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPFNwdProject"
+             
+             mc:Ignorable="d" 
+             d:DesignHeight="698" d:DesignWidth="1038" Background="White">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="519"/>
+            <ColumnDefinition Width="519"/>
+        </Grid.ColumnDefinitions>
+       
+        <StackPanel Grid.Column="0" Margin="0,15" x:Name="leftOrder">
+            <StackPanel Orientation="Horizontal"  HorizontalAlignment="Center">
+                <RadioButton x:Name="radioAdd" Content="Add" Width="50" Foreground="#462AD8"></RadioButton>
+                <RadioButton x:Name="radioUpdate" Content="Update" Width="60" Foreground="#462AD8"></RadioButton>
+                <RadioButton x:Name="radioDelete" Content="Delete" Margin="5,0,0,0" Width="60" Foreground="#462AD8"></RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10,15">
+                  <TextBlock Text="Order ID :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtOrderID" Width="200" Validation.ErrorTemplate="{StaticResource errorTemplate}">
+                   
+                </TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Customer :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"/>
+                <ComboBox Name="cmbCustomer" Width="200" Margin="0,0,0,0" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Employee :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"/>
+                <ComboBox Name="cmbEmployee" Width="200" Margin="0,0,0,0" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Order Date :" Width="100" Foreground="#462AD8"></TextBlock>
+                <DatePicker Name="dateOrder" Width="200" Text="Select Date" ></DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Require Date :" Width="100" Foreground="#462AD8"></TextBlock>
+                <DatePicker Name="dateRequire" Width="200" Text="Select Date" ></DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Shipped Date :" Width="100" Foreground="#462AD8"></TextBlock>
+                <DatePicker Name="dateShipped" Width="200" Text="Select Date" ></DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Shipper :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"/>
+                <ComboBox Name="cmbShipper" Width="200" Margin="0,0,0,0" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Freight :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtFreight" Width="200"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Ship Name :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtShipName" Width="200" ></TextBox>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin="0,15" x:Name="Order">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Ship Address :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtShipAddress" Width="200" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Ship City :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtShipCity" Width="200" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Ship Region :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtShipRegion" Width="200" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Postal Code :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtPostalCode" Width="200" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Ship Country :" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#462AD8"></TextBlock>
+                <TextBox Name="txtShipCountry" Width="200" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,180,0">
+                <Button Name="btnSaveOrders" Content="Save Orders" Width="100" HorizontalAlignment="Right" Margin="0,0,35,0" Background="#462AD8" Foreground="White"/>
+            </StackPanel>
+           
+        </StackPanel>
+    </Grid>
+</UserControl>

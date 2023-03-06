@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayVQHm5YEgCPWZwOdSqKN9L9RfchMefU+OuVrOWutR5zOWzNjFI6Vf5KGWyWQNe3Sli+qrVYzurmqk3MeDxttg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004PTKX\\OneDrive - Siemens AG\\Desktop\\PROJE\\WPFNwdProject\\WPFNwdProject\\WPFNwdProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\materialdesign.icons\\1.1.0\\materialdesign.icons.1.1.0.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\materialdesignthemes.mahapps\\0.2.7\\materialdesignthemes.mahapps.0.2.7.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\modernwpfui\\0.9.7-preview.2\\modernwpfui.0.9.7-preview.2.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\modernwpfui.mahapps\\0.9.5\\modernwpfui.mahapps.0.9.5.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

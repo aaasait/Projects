@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\bin\Debug\net7.0\Linq-Project.exe
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\bin\Debug\net7.0\Linq-Project.deps.json
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\bin\Debug\net7.0\Linq-Project.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\bin\Debug\net7.0\Linq-Project.dll
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\bin\Debug\net7.0\Linq-Project.pdb
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.dll
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\refint\Linq-Project.dll
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.pdb
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\Linq-Project.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\Linq-Project\Linq-Project\obj\Debug\net7.0\ref\Linq-Project.dll
